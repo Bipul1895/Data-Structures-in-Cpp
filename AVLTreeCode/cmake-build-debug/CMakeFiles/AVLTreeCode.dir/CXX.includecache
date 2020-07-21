@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bipul/Documents/Learning Data Structures/AVLTreeCode/cmake-build-debug/AvlTree.cpp
+AvlTree.h
+/home/bipul/Documents/Learning Data Structures/AVLTreeCode/cmake-build-debug/AvlTree.h
+algorithm
+-
+
+/home/bipul/Documents/Learning Data Structures/AVLTreeCode/cmake-build-debug/AvlTree.h
+
+/home/bipul/Documents/Learning Data Structures/AVLTreeCode/main.cpp
+iostream
+-
+cstdlib
+-
+cmake-build-debug/AvlTree.h
+/home/bipul/Documents/Learning Data Structures/AVLTreeCode/cmake-build-debug/AvlTree.h
+
