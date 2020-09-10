@@ -10,7 +10,7 @@ AvlTree::AvlTree(int key) : val(key) , height(1), lTree(nullptr), rTree(nullptr)
 }
 
 AvlTree* AvlTree::insert(AvlTree *root, int key) {
-    if(root== nullptr){
+    if(root== nullptr) {
         AvlTree* newNode=new AvlTree(key);
         return newNode;
     }

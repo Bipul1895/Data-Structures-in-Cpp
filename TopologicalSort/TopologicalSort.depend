@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1598003702 source:/home/bipul/Documents/Learning Data Structures/TopologicalSort/main.cpp
+	<iostream>
+	<vector>
+	<queue>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1599589500 source:/home/bipul/Documents/Learning Data Structures/Trie/main.cpp
+	<iostream>
+	"Trie.h"
+
+1599589785 source:/home/bipul/Documents/Learning Data Structures/Trie/Trie.cpp
+	"Trie.h"
+
+1599589806 /home/bipul/Documents/Learning Data Structures/Trie/Trie.h
+	<string>
+	<iostream>
+

@@ -25,6 +25,7 @@ void HashTable::Insert(int key) {
     ListNode* newNode=new ListNode(key);
     if(prevNode==nullptr){
         newNode->next=hashArray[index];
+
         hashArray[index]=newNode;
     }
     else{
